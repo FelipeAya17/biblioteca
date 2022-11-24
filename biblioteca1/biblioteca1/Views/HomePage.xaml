@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="biblioteca1.Views.HomePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="HOME" HorizontalTextAlignment="Center" FontSize="37" TextColor="Black" Padding="10"></Label>
+            <StackLayout>
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition  Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Text="PRESTAMOS" FontSize="15" Grid.Row="0" Grid.Column="0" BackgroundColor="White" Clicked="goPrestamo"></Button>
+                    <Button Text="PERFIL" FontSize="15" Grid.Row="0" Grid.Column="1" BackgroundColor="White" Clicked="goPerfil"></Button>
+                    <Button Text="MIS LIBROS" FontSize="15" Grid.Row="1" Grid.Column="0" BackgroundColor="White" Clicked="goLibros"></Button>
+                    <Button Text="MIS MULTAS" FontSize="15" Grid.Row="1" Grid.Column="1" BackgroundColor="White" Clicked="goMultas"></Button>
+                </Grid>
+            </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
