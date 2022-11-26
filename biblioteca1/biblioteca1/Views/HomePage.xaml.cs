@@ -36,5 +36,9 @@ namespace biblioteca1.Views
         {
             await Navigation.PushAsync(new Multas());
         }
+        private async void goLibrosEnEspera(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new LibrosEnEspera());
+        }
     }
 }

@@ -4,21 +4,25 @@
              x:Class="biblioteca1.Views.HomePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="HOME" HorizontalTextAlignment="Center" FontSize="37" TextColor="Black" Padding="10"></Label>
+            <Label Text="BIENVENIDO" HorizontalTextAlignment="Center" FontSize="37" TextColor="Black" Padding="10"></Label>
+            <Label  HorizontalTextAlignment="Center" FontSize="37" TextColor="Black" Padding="10"></Label>
             <StackLayout>
                 <Grid Margin="10">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="*"></RowDefinition>
                         <RowDefinition Height="*"></RowDefinition>
+                  
                     </Grid.RowDefinitions>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"></ColumnDefinition>
                         <ColumnDefinition  Width="*"></ColumnDefinition>
+      
                     </Grid.ColumnDefinitions>
-                    <Button Text="PRESTAMOS" FontSize="15" Grid.Row="0" Grid.Column="0" BackgroundColor="White" Clicked="goPrestamo"></Button>
-                    <Button Text="PERFIL" FontSize="15" Grid.Row="0" Grid.Column="1" BackgroundColor="White" Clicked="goPerfil"></Button>
-                    <Button Text="MIS LIBROS" FontSize="15" Grid.Row="1" Grid.Column="0" BackgroundColor="White" Clicked="goLibros"></Button>
-                    <Button Text="MIS MULTAS" FontSize="15" Grid.Row="1" Grid.Column="1" BackgroundColor="White" Clicked="goMultas"></Button>
+                    <Button Text="PRESTAMOS" FontSize="15" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="White" Clicked="goPrestamo"></Button>
+                    <!--<Button Text="PERFIL" FontSize="15" Grid.Row="0" Grid.Column="1" BackgroundColor="White" Clicked="goPerfil"></Button>-->
+                    <Button Text="MIS LIBROS" FontSize="15" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="White" Clicked="goLibros"></Button>
+                    <Button Text="LIBROS EN ESPERA" FontSize="15" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="White" Clicked="goLibrosEnEspera"></Button>
+                    <!--<Button Text="MIS MULTAS" FontSize="15" Grid.Row="1" Grid.Column="1" BackgroundColor="White" Clicked="goMultas"></Button>-->
                 </Grid>
             </StackLayout>
         </StackLayout>

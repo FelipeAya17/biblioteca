@@ -4057,11 +4057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.Android\\biblioteca1.Android.csproj",
+      "projectUniqueName": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.Android\\biblioteca1.Android.csproj",
       "projectName": "biblioteca1.Android",
-      "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.Android\\biblioteca1.Android.csproj",
+      "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.Android\\biblioteca1.Android.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.Android\\obj\\",
+      "outputPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4082,8 +4082,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.csproj": {
-              "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.csproj"
+            "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1\\biblioteca1.csproj": {
+              "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1\\biblioteca1.csproj"
             }
           }
         }

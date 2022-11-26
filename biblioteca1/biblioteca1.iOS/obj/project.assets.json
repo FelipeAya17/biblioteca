@@ -2346,11 +2346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
+      "projectUniqueName": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
       "projectName": "biblioteca1.iOS",
-      "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
+      "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.iOS\\obj\\",
+      "outputPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2371,8 +2371,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.csproj": {
-              "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.csproj"
+            "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1\\biblioteca1.csproj": {
+              "projectPath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1\\biblioteca1.csproj"
             }
           }
         }

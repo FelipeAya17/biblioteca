@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWiW52u6miy9MyE7xSui8mWyPYt0is/7PEp+601BpVzvnSoTMMUmbXf/5X6OkCgLRTTYdiYpgJs1I8EGnO0P2Q==",
+  "dgSpecHash": "lcoTuCtK12x0NjgrofEYhBWcU09icfDRu84aXPguPlIIw8YMBvsDbxbEuTuEAzxBUuidKZhktIhoZpH9TLpz6Q==",
   "success": true,
-  "projectFilePath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\ELECTIVA CP3\\biblioteca1\\biblioteca1\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
+  "projectFilePath": "d:\\Users\\andre\\OneDrive\\Escritorio\\UNIVERSIDAD\\parcial\\biblioteca\\biblioteca1\\biblioteca1.iOS\\biblioteca1.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

@@ -35,3 +35,25 @@ d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\ELECTIVA CP3\biblioteca1\bibliote
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\ELECTIVA CP3\biblioteca1\biblioteca1\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Multas.xaml.g.cs
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\ELECTIVA CP3\biblioteca1\biblioteca1\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Perfil.xaml.g.cs
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\ELECTIVA CP3\biblioteca1\biblioteca1\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Prestamo.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\bin\Debug\netstandard2.0\biblioteca1.deps.json
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\bin\Debug\netstandard2.0\biblioteca1.dll
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\bin\Debug\netstandard2.0\biblioteca1.pdb
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.csproj.AssemblyReference.cache
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\App.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Libros.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Multas.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Perfil.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\Prestamo.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.AssemblyInfoInputs.cache
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.AssemblyInfo.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.csproj.CoreCompileInputs.cache
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\XamlC.stamp
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.dll
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\refint\biblioteca1.dll
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.pdb
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\ref\biblioteca1.dll
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\LibrosEnEspera.xaml.g.cs
