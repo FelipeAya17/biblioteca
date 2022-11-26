@@ -27,6 +27,7 @@ namespace biblioteca1.Views
             foreach (var libro in libros )
             {
                 pickerLibro.Items.Add(libro.nombreLibro);
+              
             }
         }
 

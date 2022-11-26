@@ -57,3 +57,5 @@ d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\bi
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\biblioteca1.pdb
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\ref\biblioteca1.dll
 d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\LibrosEnEspera.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\LibrosForm.xaml.g.cs
+d:\Users\andre\OneDrive\Escritorio\UNIVERSIDAD\parcial\biblioteca\biblioteca1\biblioteca1\obj\Debug\netstandard2.0\Views\HomePageAdmin.xaml.g.cs

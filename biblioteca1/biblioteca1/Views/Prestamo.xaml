@@ -7,6 +7,7 @@
             <Label Text="Solicitud de libros" HorizontalOptions="Center" TextColor="Black"></Label>
             <Picker x:Name="pickerLibro" SelectedIndexChanged="pickerLibro_SelectedIndexChanged"></Picker>
             <Button Text="Enviar"></Button>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

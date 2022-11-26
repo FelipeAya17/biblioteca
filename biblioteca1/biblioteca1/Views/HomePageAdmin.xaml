@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="biblioteca1.Views.HomePageAdmin">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition  Width="*"></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+                <Button Text="AGREGAR LIBRO" FontSize="15" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="White" Clicked="goLibroForm"></Button>
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

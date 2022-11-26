@@ -44,7 +44,6 @@
                 <Label
                     Text="Registro"
                             TextColor="Black"
-                            Font="Montserrat-Medium.otf"
                             FontSize="{OnPlatform Android=20,iOS=23}"
                             WidthRequest="300"
                     />
@@ -126,29 +125,28 @@
 
             </StackLayout>
 
-            <StackLayout Grid.Row="6" HorizontalOptions="Center" WidthRequest="{OnPlatform iOS=300,Android=300}" Orientation="Vertical"  >
-                <Label
-                    Text="Tipo Documento"
+                <StackLayout Grid.Row="6" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical" >
+
+                    <Label
+                    Text="Tipo documento"
                     FontSize="{OnPlatform Android=13}"
                     TextColor="Black"
                     />
-                <Frame
-                    HasShadow="{OnPlatform Android=true,iOS=false}"
-                    Padding="{OnPlatform Android=6,iOS=0}"
+
+                    <Frame
+                     HasShadow="{OnPlatform Android=true,iOS=false}"
+                     Padding="{OnPlatform Android=6,iOS=0}"
                     CornerRadius="{OnPlatform Android=7}"
-                    >
-                    <Entry
-                    Placeholder="CC"
-                    Keyboard="Default"
-                    MaxLength="25"
-                    FontSize="{OnPlatform Android=15,iOS=16}"
-                    Text="{Binding EmailTxt, Mode=TwoWay}"
-                    IsEnabled="{Binding IsEnabledTxt}"
-                    x:Name="idTipoDocumento"
-                    />
-                </Frame>
-            </StackLayout>
-            <StackLayout Grid.Row="7" HorizontalOptions="Center" WidthRequest="{OnPlatform iOS=300,Android=300}" Orientation="Vertical"  >
+                     >
+
+                        <Picker x:Name="pickerTipoDoc" SelectedIndexChanged="pickerTipoDoc_SelectedIndexChanged"></Picker>
+
+                    </Frame>
+
+                </StackLayout>
+
+
+                <StackLayout Grid.Row="7" HorizontalOptions="Center" WidthRequest="{OnPlatform iOS=300,Android=300}" Orientation="Vertical"  >
                 <Label
                     Text="Numero Documento"
                     FontSize="{OnPlatform Android=13}"

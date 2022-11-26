@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="biblioteca1.Views.LibrosForm">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Agregar libro" TextColor="Black" HorizontalOptions="Center" FontSize="25"></Label>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <!--1-->
+                    <RowDefinition Height="Auto"/>
+                    <!--2-->
+                    <RowDefinition Height="Auto"/>
+                    <!--3-->
+                    <RowDefinition Height="Auto"/>
+                    <!--4-->
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout Grid.Row="2" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical" >
+                    <Label
+                     Text="Nombre del libro"
+                     FontSize="{OnPlatform Android=13}"
+                     TextColor="Black"/>
+
+                    <Frame
+                     HasShadow="{OnPlatform Android=true,iOS=false}"
+                     Padding="{OnPlatform Android=6,iOS=0}"
+                     CornerRadius="{OnPlatform Android=7}"
+                     >
+
+                    <Entry
+                    Placeholder="Nombre del libro"
+                    MaxLength="25"
+                    Keyboard="Text"
+                    FontSize="{OnPlatform Android=15,iOS=16}"
+                    Text="{Binding NameTxt, Mode=TwoWay}"
+                    IsEnabled="{Binding IsEnabledTxt}"
+                    x:Name="nombre"
+                    />
+                    </Frame>
+                </StackLayout>
+                
+                
+                <StackLayout Grid.Row="3" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical" >
+
+                    <Label
+                    Text="Autor"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    />
+
+                    <Frame
+                     HasShadow="{OnPlatform Android=true,iOS=false}"
+                     Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}"
+                     >
+
+                        <Picker x:Name="pickerIdAutor" SelectedIndexChanged="pickerIdAutor_SelectedIndexChanged"></Picker>
+
+                    </Frame>
+
+                </StackLayout>
+
+                <StackLayout Grid.Row="4" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical" >
+                    <Label
+                     Text="Fecha Publicacion"
+                     FontSize="{OnPlatform Android=13}"
+                     TextColor="Black"/>
+
+                    <Frame
+                     HasShadow="{OnPlatform Android=true,iOS=false}"
+                     Padding="{OnPlatform Android=6,iOS=0}"
+                     CornerRadius="{OnPlatform Android=7}"
+                     >
+                        <DatePicker>
+
+                        </DatePicker>
+
+                    </Frame>
+                </StackLayout>
+
+                <StackLayout Grid.Row="5" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical" >
+
+                    <Label
+                    Text="Categoria"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    />
+
+                    <Frame
+                     HasShadow="{OnPlatform Android=true,iOS=false}"
+                     Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}"
+                     >
+                        <Picker x:Name="pickerCategoria" SelectedIndexChanged="pickerCategoria_SelectedIndexChanged"></Picker>
+                    </Frame>
+
+                </StackLayout>
+
+
+
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
